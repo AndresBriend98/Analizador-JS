@@ -5,12 +5,12 @@
       "codigo": "100"
     },
     {
-      "nombre": "sexo",
+      "nombre": "const",
       "tipo": "reservada",
       "codigo": "100"
     },
     {
-      "nombre": "const",
+      "nombre": "var",
       "tipo": "reservada",
       "codigo": "100"
     },
@@ -50,32 +50,7 @@
       "codigo": "100"
     },
     {
-      "nombre": "parseFloat",
-      "tipo": "reservada",
-      "codigo": "100"
-    },
-    {
       "nombre": "break",
-      "tipo": "reservada",
-      "codigo": "100"
-    },
-    {
-      "nombre": "textContent",
-      "tipo": "reservada",
-      "codigo": "100"
-    },
-    {
-      "nombre": "innerHTML",
-      "tipo": "reservada",
-      "codigo": "100"
-    },
-    {
-      "nombre": "document",
-      "tipo": "reservada",
-      "codigo": "100"
-    },
-    {
-      "nombre": "getElementById",
       "tipo": "reservada",
       "codigo": "100"
     },
